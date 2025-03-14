@@ -2,6 +2,7 @@
 
 I'm Lucas Liu, a software engineer currently working at Didi Chuxing.
 
+<br />
 
 <!--
 **yhlchao/yhlchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhlchao&theme=catppuccin_mocha&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yhlchao&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&hide_border=true" alt="Lucas' github stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yhlchao&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide_border=true" alt="Lucas' github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhlchao&theme=catppuccin_latte&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
