@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <img align="center" src="https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide_border=true" alt="Lucas' github stats" /> | <img align="center" src="https://github-readme-stats-three-gamma-84.vercel.app/api/top-langs/?username=yhlchao&theme=catppuccin_latte&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+![Lucas' github stats][github-stats-card]
+
+[github-stats-card]: https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide_border=true
