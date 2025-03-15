@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Lucas Liu, a software engineer currently working at Didi Chuxing.
+I'm Lucas Liu, a software engineer.
+
+- 🔭 I’m currently working on Didi Chuxing.
+- 🌱 I’m currently learning Rust.
 
 <br />
 
@@ -21,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Lucas' github stats][github-stats-card]
 
-[github-stats-card]: https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=catppuccin_latte&show_icons=true&include_all_commits=true&hide_border=true
+[github-stats-card]: https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=shadow_blue&show_icons=true&hide=contribs
