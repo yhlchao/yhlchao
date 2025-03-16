@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Lucas' github stats][github-stats-card]
 
-[github-stats-card]: https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=shadow_blue&show_icons=true&hide=contribs
+[github-stats-card]: https://github-readme-stats-three-gamma-84.vercel.app/api?username=yhlchao&theme=transparent&show_icons=true&hide=contribs
